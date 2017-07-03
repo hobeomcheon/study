@@ -23,6 +23,5 @@ class MainFrame extends JFrame implements MouseListener, Runnable{
 	private JButton bt_reset = new JButton("RESET");
 	//게임 리셋 버튼
 	SimpleDateFormat time_format;
-	//진행시간값을 받아들일 문자열
-	long start_time
+	//진행시간값을 받아들이
 }
